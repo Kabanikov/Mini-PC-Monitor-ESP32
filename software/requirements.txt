@@ -1,0 +1,5 @@
+psutil
+pyserial
+nvidia-ml-py
+pystray
+Pillow
